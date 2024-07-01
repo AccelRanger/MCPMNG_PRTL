@@ -17,7 +17,7 @@ local module = {}
 
 local HttpService = game:GetService("HttpService")
 
-local apiKey = "V50PA-MWBX-MNKVN5-4BQ6IZ-O1-9XN-PT29UZ9YNC-J-ACCEL-SYSTEMS-AUTH-KEY-755-1"
+local apiKey = "hi"
 local baseUrl = "http://localhost:3000/mngportal"
 
 function module.logPromotion(userId, rank)
