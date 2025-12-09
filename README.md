@@ -14,4 +14,4 @@ MIT LICENSE
 
 This project is used by the following companies:
 
-- McDonalds and Partners
+- Snowline
